@@ -49,7 +49,7 @@ To use this app, you will need to follow these steps:
 ## Video Example
 
 <p align="center">
-<a href="/README-generator/Images/APP-DEMO-README.webm"> <img src="https://media.gettyimages.com/id/1510085846/video/glowing-animated-neon-line-play-button-icon-isolated-on-red-background-social-media-internet.jpg?s=640x640&k=20&c=g2o4PZ9gqsr0JDZ8MizXE2dxm817VFOTN1Q08Fb2meY=" alt="Video Demo of Application" width="50%;">
+<a href="/README-generator/Images/APP-DEMO-README.webm"> <img src="https://media.gettyimages.com/id/1510085846/video/glowing-animated-neon-line-play-button-icon-isolated-on-red-background-social-media-internet.jpg?s=640x640&k=20&c=g2o4PZ9gqsr0JDZ8MizXE2dxm817VFOTN1Q08Fb2meY=" alt="Video Demo of Application">
 </a>
 </p>
 
