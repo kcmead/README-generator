@@ -38,7 +38,7 @@ To use this app, you will need to follow these steps:
 
 ## Screenshots
 1. Starting the application
-![start](/README-generator/Images/1-Start.png)
+![start](/README-generator/README-generator/Images/1-Start.png)
 2. Answering the questions
 ![answering](/README-generator/Images/2-Answer.png)
 3. Selecting the License Type (press space bar to select, then press enter to submit choice)
