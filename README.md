@@ -40,11 +40,11 @@ To use this app, you will need to follow these steps:
 1. Starting the application
 ![start](https://github.com/kcmead/README-generator/blob/main/Images/1-Start.png?raw=true)
 2. Answering the questions
-![answering](/README-generator/Images/2-Answer.png)
+![answering](https://github.com/kcmead/README-generator/blob/main/Images/2-Answer.png?raw=true)
 3. Selecting the License Type (press space bar to select, then press enter to submit choice)
-![selecting the license](/README-generator/Images/3-Select.png)
-4. Submitting information for README creation ![submit](/README-generator/Images/4-Enter.png)
-5. README created and located in project folder.  (Raw output on the left, Preview version on the right.) ![result](/README-generator/Images/5-Result.png)
+![selecting the license](https://github.com/kcmead/README-generator/blob/main/Images/3-Select.png?raw=true)
+4. Submitting information for README creation ![submit](https://github.com/kcmead/README-generator/blob/main/Images/4-Enter.png?raw=true)
+5. README created and located in project folder.  (Raw output on the left, Preview version on the right.) ![result](https://github.com/kcmead/README-generator/blob/main/Images/5-Result.png?raw=true)
 
 ## Video Example
 
